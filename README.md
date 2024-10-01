@@ -106,8 +106,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any inquiries, feel free to reach out to me via:
 
-For any inquiries, feel free to reach out to me via:
-
 - Email: [tech.ramakanttiwari@gmail.com](mailto:tech.ramakanttiwari@gmail.com)
 - Medium: [@tech.ramakant](https://medium.com/@tech.ramakant)
 - LinkedIn: [@tech-ramakant](https://www.linkedin.com/in/ramakant-tiwari-593479128)
